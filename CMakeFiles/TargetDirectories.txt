@@ -1,0 +1,3 @@
+/home/k0swel/ProgramFiles/test_socket_on_linux/CMakeFiles/TEST_SOCKET.dir
+/home/k0swel/ProgramFiles/test_socket_on_linux/CMakeFiles/edit_cache.dir
+/home/k0swel/ProgramFiles/test_socket_on_linux/CMakeFiles/rebuild_cache.dir
