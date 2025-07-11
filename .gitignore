@@ -2,4 +2,5 @@ build/
 .vscode/
 CMakeCache.txt
 Makefile
-cmake_install.cmale
+cmake_install.cmake
+CMakeFiles/

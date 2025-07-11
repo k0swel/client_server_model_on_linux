@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/TEST_SOCKET.dir/src/main.cpp.o CMakeFiles/TEST_SOCKET.dir/src/client.cpp.o -o build/Client 
